@@ -1,0 +1,17 @@
+<!---- Put this at the top of your code;
+       Spoiler Warning Snippet 
+       To change max-width, edit 25em with ctrl-f to a higher or lower value, such as 30em ---->
+<a href="https://toyhou.se/Kunstmaskin" class="tooltipster text-warning" title="Snippet Code by Kunstmaskin" data-original-title="Code by Kunstmaskin"><i class="fas fa-cut" style="font-size:9px;"></i></a> <!-- : Credit : Feel free to move, but please do not hide or remove : -->
+
+<div class="container" align="center">
+  <div class="card col-16 mb-5 bg-warning border-0 rounded" style="height:auto; max-width:25em; border-radius:3px; padding:2px;">
+    <div class="card col-16 bg-faded border-0 rounded p-1" style="height:auto; max-width:auto; border-radius:2px;">
+
+   <!-- Spoiler header -->    
+    <span p class="" style="font-size:12px; font-family: monospace;"> <i class="far fa-exclamation-triangle fa-fw text-warning"></i>
+    This page contains spoilers for 'content'.
+    </span>
+  </div>
+    </div> 
+      </div> 
+<!---- Spoiler Snippet End ---->
