@@ -9,4 +9,4 @@
 > Feel free to ask me for help on any code. Just know my replies might be slow, if im offline. On the occasion that you aquire assitance quickly, please reach out to me directly.
 > <br>
 
-> Should you come across a bug, please file an [issue](https://github.com/Kunstmaskin/ToyhouseFull/issues/new/choose) listing the code and problem. It would help me immensely.
+> Should you come across a bug, please file an [issue](https://github.com/Kunstmaskin/ToyhouseSnippets/issues/new/choose) listing the code and problem. It would help me immensely.
